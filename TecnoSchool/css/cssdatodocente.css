@@ -1,0 +1,29 @@
+body{
+  background-image: url(../img/fondo-desenfocado-abstracto-o-fondo-pantalla_1194-24934.jpg);
+  background-size: cover;
+  
+}
+
+
+.contenedor {
+  font-family: sans-serif;
+  color:white;
+  background: rgba(18,6,18,.6);
+  width: 90%;
+  max-width: 650px;
+  margin: auto;
+  padding: 5px 35px;
+  margin-top: 150px;
+  padding-bottom: 30px;
+  border-radius: 3px;
+
+}
+.table_title{
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+

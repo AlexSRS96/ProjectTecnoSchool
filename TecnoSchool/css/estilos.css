@@ -1,0 +1,60 @@
+body{
+	background-image: url(../img/empty-room-with-wooden-floor-and-dark-blue-wall.jpg);
+	background-size: cover;
+  background-position: right bottom;
+}
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.register{
+	width: 400px;
+	background: #orange;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'Georgia, serif';
+	color: white;
+}
+.register h2{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.controls{
+	width: 95%;
+	background: #f5d9b5;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #db8127;
+	font-family: 'calibri';
+	font-size: 180x;
+}
+.register p{
+	height: 20px;
+	text-align: center;
+	font-size: 18px;
+}
+.register a{
+	color: white;
+	text-decoration: none;
+}
+.register a:hover{
+	color: whie;
+	text-decoration: underline;
+}
+.register .botons{
+	width: 100%;
+	background: #f09826;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}	
+.register .botons:hover {
+	background-color: #fe4918;
+	transition: all .5s ease;
+}
